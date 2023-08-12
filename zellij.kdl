@@ -1,0 +1,16 @@
+themes {
+    website {
+        fg 209 184 143
+        bg 19 47 53
+        black 24 60 68
+        red 218 73 73
+        green 188 202 21
+        yellow 255 176 46
+        blue 53 166 230
+        magenta 211 67 162
+        cyan 56 201 149
+        white 255 212 143
+        orange 255 121 46
+    }
+}
+
